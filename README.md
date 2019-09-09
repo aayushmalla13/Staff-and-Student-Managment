@@ -22,10 +22,10 @@ for second semester Kathmandu University. The main purpose of this software is t
 
 
 **Screenshots:**
-![Splash Screen](https://github.com/aayushmalla13/Staff-and-student-Management/blob/master/Screenshots/e.PNG)
-![Welcome to admin](https://github.com/aayushmalla13/Staff-and-student-Management/blob/master/Screenshots/a.jpg)
-![Panel](https://github.com/aayushmalla13/Staff-and-student-Management/blob/master/Screenshots/b.PNG)
-![Adding records](https://github.com/aayushmalla13/Staff-and-student-Management/blob/master/Screenshots/d.PNG)
+![Splash Screen](https://github.com/sarangbishal/Staff-and-student-Management/blob/master/Screenshots/e.PNG)
+![Welcome to admin](https://github.com/sarangbishal/Staff-and-student-Management/blob/master/Screenshots/a.jpg)
+![Panel](https://github.com/sarangbishal/Staff-and-student-Management/blob/master/Screenshots/b.PNG)
+![Adding records](https://github.com/sarangbishal/Staff-and-student-Management/blob/master/Screenshots/d.PNG)
 
 
 
